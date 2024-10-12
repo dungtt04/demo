@@ -1,3 +1,5 @@
+## HƯỚNG DẪN VIEW BIẾN THỂ RA CHI TIẾT SẢN PHẨM
+
 Để xử lý việc cập nhật giá khi người dùng chọn một biến thể, chúng ta sẽ chia quy trình thành các bước chi tiết hơn, đảm bảo mọi thứ đều hoạt động từ frontend đến backend. Dưới đây là quy trình chi tiết để triển khai chức năng này:
 
 ### 1. **Thiết lập dữ liệu ban đầu trong Blade Template:**
